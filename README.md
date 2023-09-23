@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @suayebahmed
 - 👨🏻‍ 💻I’m interested in Coding.
-- 🌱 I’m currently studying as Sophomore in University of Memphis, TN, USA.
+- 🌱 I’m currently studying as Senior in University of Memphis, TN, USA.
+- Graduating from CS degree only in 3 years.
 - 💻 Computer Science Major.
 - 📝 I am Learning and Sharing Code.
 - 🎭 Sharing is Caring. 
